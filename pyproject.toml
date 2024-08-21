@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "fem-interface"
+name = "fem_interface"
 version = "0.1.0"
 description = ""
 authors = ["sveinomork <62790668+sveinomork@users.noreply.github.com>"]
