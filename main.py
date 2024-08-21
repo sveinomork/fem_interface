@@ -12,6 +12,29 @@ from fem_interface.compare import compare,compare2,compare3
 from shapely.geometry import Point
 from fem_interface.fem.cards.beuslo import BEUSLO 
 
+
+from pathlib import Path
+import pytest
+from fem_interface.fem.fem import FEM
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 def main():
 
 

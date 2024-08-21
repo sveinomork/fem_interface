@@ -43,7 +43,7 @@ Create repostory on GITHUB named fem_interface
 Create a new repostory on the command line
 
 `git init`
-
+`git add .`
 `git commit -m "first commit" ` <br>
 `git branch -M main`<br>
 `git remote add origin https://github.com/sveinomork/fem_interface.git` <br>
